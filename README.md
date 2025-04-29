@@ -1,4 +1,6 @@
 # 60 dias de programação em Python
 
-- [] Dia 1
-- [] Dia 2
+- [x] Dia 1 - Ola mundo em Python
+- [x] Dia 2 - Soma de dois números de duas formas diferentes
+- [ ] Dia 3 -
+ 
