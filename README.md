@@ -3,8 +3,9 @@
 <<<<<<< HEAD
 - [x] Dia 1 - Ola mundo em Python
 - [x] Dia 2 - Soma de dois números de duas formas diferentes
-- [ ] Dia 3 -
- 
+- [x] Dia 3 - Condicional que verifica se um número é par ou impar
+- [ ] Dia 4 - 
+- [ ] Dia 5-
 =======
 - [x] Dia 1 - Olá Mundo em Python
 - [] Dia 2
