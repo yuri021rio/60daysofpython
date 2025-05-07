@@ -4,8 +4,8 @@
 - [x] Dia 1 - Ola mundo em Python
 - [x] Dia 2 - Soma de dois números de duas formas diferentes
 - [x] Dia 3 - Condicional que verifica se um número é par ou impar
-- [ ] Dia 4 - 
-- [ ] Dia 5-
+- [x] Dia 4 - Estrutura de repetição usando for e while.
+- [ ] Dia 5 - Função que imprime o quadrado de um número.  
 =======
 - [x] Dia 1 - Olá Mundo em Python
 - [] Dia 2
